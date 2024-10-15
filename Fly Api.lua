@@ -1,4 +1,5 @@
-callback = state
+call function = state
+callback function = state
 function(state)
 local function = BypassAntiCheat = state
 local function = Fly = state 
